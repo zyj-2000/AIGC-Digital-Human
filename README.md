@@ -10,7 +10,7 @@ This is a repository for organizing papres, codes and other resources related to
 - [AIGC Digital Human](#aigc-digital-human-\(update\))
   - [Introduction](#introduction)
   - [2D Digital Human](#2d-digital-human)
-    - [Large Language Model](#large-language-model-\(llm\))
+    - [Large Language Model](#large-language-model-llm)
     - [Text2Speech Conversion](#text2speech-conversion)
     - [Speech Clone](#speech-clone)
     - [Face Driving](#face-driving)
