@@ -18,15 +18,9 @@ This is a repository for organizing papres, codes and other resources related to
     - [Style Transfer](#style-transfer)
     - [Quality Assessment](#quality-assessment)
   - [3D Digital Human](#3d-digital-human)
-    - [Database Name 1](#database-name-1)
-    - [Database Name 2](#database-name-2)
-    - [Database Name 3](#database-name-3)
-  - [Code Repositories](#code-repositories)
-    - [Code Repository Name 1](#code-repository-name-1)
-    - [Code Repository Name 2](#code-repository-name-2)
-    - [Code Repository Name 3](#code-repository-name-3)
-  - [References](#references)
-  - [Acknowledgements](#acknowledgements)
+    - [NeRF](#nerf)
+    - [Quality Assessment](#quality-asssessment)
+    - [Databases](#databases)
 
 ### Introduction
 
