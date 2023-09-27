@@ -7,13 +7,13 @@ This is a repository for organizing papres, codes and other resources related to
 #### ⭐ If you find this repo useful, please star it!!!
 
 # Contents 
-- [AIGC Digital Human](#AIGC Digital Human (Update))
-  - [Introduction](###introduction)
+- [AIGC Digital Human](#AIGC-Digital-Human-(Update))
+  - [Introduction](#introduction)
   - [2D Digital Human](#2d-digital-human)
-    - [Paper Title 1](#paper-title-1)
+    - [Large Language Model](#large-language-model-(llm))
     - [Paper Title 2](#paper-title-2)
     - [Paper Title 3](#paper-title-3)
-  - [Databases](#databases)
+  - [3D Digital Human](#3d-digital-human)
     - [Database Name 1](#database-name-1)
     - [Database Name 2](#database-name-2)
     - [Database Name 3](#database-name-3)
