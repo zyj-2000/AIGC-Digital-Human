@@ -24,7 +24,7 @@ This is a repository for organizing papres, codes and other resources related to
 
 ### Introduction
 
-In this documentation, we have compiled papers, databases, and code resources related to Digital Humans. Digital Humans refer to virtual entities generated and simulated by computers, possessing human characteristics and behaviors.
+In this documentation, we have collected papers, databases, and code resources related to AIGC Digital Human. Digital Humans refer to virtual entities generated and simulated by computers, possessing human characteristics and behaviors.
 
 ### 2D Digital Human
 
