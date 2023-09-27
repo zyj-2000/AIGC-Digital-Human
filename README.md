@@ -7,7 +7,7 @@ This is a repository for organizing papres, codes and other resources related to
 #### ⭐ If you find this repo useful, please star it!!!
 
 # Contents 
-- [AIGC Digital Human](#AIGC-Digital-Human)
+- [AIGC Digital Human](#aigc-digital-human-\(update\))
   - [Introduction](#introduction)
   - [2D Digital Human](#2d-digital-human)
     - [Large Language Model](#large-language-model-(llm))
@@ -19,7 +19,7 @@ This is a repository for organizing papres, codes and other resources related to
     - [Quality Assessment](#quality-assessment)
   - [3D Digital Human](#3d-digital-human)
     - [NeRF](#nerf)
-    - [3D Quality Assessment](#3d-quality-asssessment)
+    - [3D Quality Assessment](#3d-quality-assessment)
     - [Databases](#databases)
 
 ### Introduction
