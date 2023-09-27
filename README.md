@@ -7,7 +7,7 @@ This is a repository for organizing papres, codes and other resources related to
 #### ⭐ If you find this repo useful, please star it!!!
 
 # Contents 
-- [AIGC Digital Human](#AIGC-Digital-Human-(Update))
+- [AIGC Digital Human](#AIGC-Digital-Human)
   - [Introduction](#introduction)
   - [2D Digital Human](#2d-digital-human)
     - [Large Language Model](#large-language-model-(llm))
@@ -19,7 +19,7 @@ This is a repository for organizing papres, codes and other resources related to
     - [Quality Assessment](#quality-assessment)
   - [3D Digital Human](#3d-digital-human)
     - [NeRF](#nerf)
-    - [Quality Assessment](#quality-asssessment)
+    - [3D Quality Assessment](#3d-quality-asssessment)
     - [Databases](#databases)
 
 ### Introduction
@@ -85,7 +85,7 @@ In this documentation, we have compiled papers, databases, and code resources re
 | :--: | :-------: | :----------------------------------------------------------- | :------------------------------------------------: |
 |  1   | HumanNeRF | ["HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video"](https://arxiv.org/abs/2201.04127) | [github](https://github.com/chungyiweng/humannerf) |
 
-#### Quality Assessment
+#### 3D Quality Assessment
 
 |  #   | Model | Paper                                                        | Code/Project |
 | :--: | :---: | :----------------------------------------------------------- | :----------: |
