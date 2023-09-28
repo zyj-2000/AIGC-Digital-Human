@@ -34,7 +34,7 @@ In this documentation, we have collected papers, databases, and code resources r
 | :--: | :---------: | :----------------------------------------------------------: | :------------------------------------------------: |
 |  1   | ChatGPT-3.5 |                              -                               | [ChatGPT](https://openai.com/chatgpt) |
 |  2   | ChatGLM-6B  | ["GLM-130B: An Open Bilingual Pre-trained Mode"](https://arxiv.org/abs/2210.02414) |   [github](https://github.com/THUDM/ChatGLM-6B)    |
-|  3   | Qwen (同义千问)  | ["QWEN TECHNICAL REPORT"](https://qianwen-res.oss-cn-beijing.aliyuncs.com/QWEN_TECHNICAL_REPORT.pdf) |   [github]([https://github.com/THUDM/ChatGLM-6B](https://github.com/QwenLM/Qwen))    |
+|  3   | Qwen (同义千问)  | ["QWEN TECHNICAL REPORT"](https://qianwen-res.oss-cn-beijing.aliyuncs.com/QWEN_TECHNICAL_REPORT.pdf) |   [github](https://github.com/QwenLM/Qwen)   |
 
 #### Text2Speech Conversion
 
