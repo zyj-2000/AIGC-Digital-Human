@@ -109,7 +109,8 @@ In this documentation, we have collected papers, databases, and code resources r
 |  8   |     DHHQA     | Quality Assessment | [Perceptual Quality Assessment for Digital Human Heads](https://arxiv.org/abs/2209.09489) |       [Link](https://github.com/zzc-1998/DHHQA)       |
 |  9   |    DDH-QA     | Quality Assessment | [DDH-QA: A DYNAMIC DIGITAL HUMANS QUALITY ASSESSMENT DATABASE](https://arxiv.org/pdf/2212.12734.pdf) |      [Link](https://github.com/zzc-1998/DDH-QA)       |
 |  10  |   SJTU-H3D    | Quality Assessment | [Advancing Zero-Shot Digital Human Quality Assessment through Text-Prompted Evaluation](https://arxiv.org/abs/2307.02808) |     [Link](https://github.com/zzc-1998/SJTU-H3D)      |
-
+|  11  |  6G-DHQA    | Quality Assessment | [Quality-of-Experience Evaluation for Digital Twins in 6G Network Environments](https://ieeexplore.ieee.org/abstract/document/10381636/) |     [Link](https://github.com/zyj-2000/6G-DHQA)      |
+|  12  |  THQA    | Quality Assessment | [THQA: A PERCEPTUAL QUALITY ASSESSMENT DATABASE FOR TALKING HEADS](https://www.researchgate.net/publication/378609270_THQA_A_PERCEPTUAL_QUALITY_ASSESSMENT_DATABASE_FOR_TALKING_HEADS?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InNlYXJjaCIsInBvc2l0aW9uIjoicGFnZUhlYWRlciJ9fQ) |     [Link](https://github.com/zyj-2000/THQA)      |
 
 
 
