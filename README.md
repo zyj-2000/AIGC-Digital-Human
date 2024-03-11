@@ -44,16 +44,25 @@ In this documentation, we have collected papers, databases, and code resources r
 |  1   | Espeaker | -     | [Web](https://espeak.sourceforge.net/) |
 
 #### Speech Clone
-
 |  #   |          Model          |                            Paper                             |                         Code/Project                         |
 | :--: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  1   |       MockingBird       |                              -                               |       [github](https://github.com/babysor/MockingBird)       |
-|  2   | Real-Time-Voice-Cloning | ["Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis"](https://arxiv.org/abs/1806.04558) | [github](https://github.com/CorentinJ/Real-Time-Voice-Cloning) |
+|  2   | Real-Time-Voice-Cloning | ["Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis"](https://arxiv.org/abs/1806.04558) | [github](https://github.com/CorentinJ/Real-
+
+
+
 
 #### Face Driving
-
-[Awesome-Talking-Face](https://github.com/JosephPai/Awesome-Talking-Face)
-
+|  #   |          Model          |                            Paper                             |                         Code/Project                         |
+| :--: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  1   |       MakeIttalk       |                  ["MakeItTalk: Speaker-Aware Talking-Head Animation"](https://arxiv.org/abs/2004.12992)   |       [github](https://github.com/yzhou359/MakeItTalk)       |
+|  2   | Audio2Head | ["Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion"](https://arxiv.org/abs/2107.09293) | [github](https://github.com/wangsuzhen/Audio2Head) |
+|  3   |       Sadtalker       |  ["SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation"](https://arxiv.org/abs/2211.12194)                              |       [github](https://github.com/OpenTalker/SadTalker)       |
+|  4   |       Dreamtalk       |  ["DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models"](https://arxiv.org/abs/2312.09767)                               |       [github](https://github.com/ali-vilab/dreamtalk)       |
+|  5   | Wav2Lip | ["A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild"](https://arxiv.org/abs/2008.10010) | [github](https://github.com/Rudrabha/Wav2Lip) |
+|  6   |       Video-Retalking       |  ["VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild"](https://arxiv.org/abs/2211.14758)                               |       [github](https://github.com/OpenTalker/video-retalking)       |
+|  7   | DINet | ["DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video"](https://arxiv.org/abs/2303.03988) | [github](https://github.com/MRzzm/DINet) |
+|  8   | IP-LAP | ["Identity-Preserving Talking Face Generation with Landmark and Appearance Priors"](https://arxiv.org/abs/2305.08293) | [github](https://github.com/Weizhi-Zhong/IP_LAP) |
 #### Cloth Modification
 
 |  #   |  Model   | Paper                                                        |                   Code/Project                   |
@@ -119,5 +128,7 @@ In this documentation, we have collected papers, databases, and code resources r
 |  11  |  6G-DHQA    | Quality Assessment | [Quality-of-Experience Evaluation for Digital Twins in 6G Network Environments](https://ieeexplore.ieee.org/abstract/document/10381636/) |     [Link](https://github.com/zyj-2000/6G-DHQA)      |
 |  12  |  THQA    | Quality Assessment | [THQA: A PERCEPTUAL QUALITY ASSESSMENT DATABASE FOR TALKING HEADS](https://www.researchgate.net/publication/378609270_THQA_A_PERCEPTUAL_QUALITY_ASSESSMENT_DATABASE_FOR_TALKING_HEADS?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InNlYXJjaCIsInBvc2l0aW9uIjoicGFnZUhlYWRlciJ9fQ) |     [Link](https://github.com/zyj-2000/THQA)      |
 
+### Related Reference
+[Awesome-Talking-Face](https://github.com/JosephPai/Awesome-Talking-Face)
 
 
