@@ -19,6 +19,7 @@ This is a repository for organizing papres, codes and other resources related to
     - [Quality Assessment](#quality-assessment)
   - [3D Digital Human](#3d-digital-human)
     - [NeRF](#nerf)
+    - [Gaussian](#gaussian)
     - [3D Quality Assessment](#3d-quality-assessment)
     - [Databases](#databases)
 
@@ -84,7 +85,13 @@ In this documentation, we have collected papers, databases, and code resources r
 
 |  #   |   Model   | Paper                                                        |                    Code/Project                    |
 | :--: | :-------: | :----------------------------------------------------------- | :------------------------------------------------: |
-|  1   | HumanNeRF | ["HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video"](https://arxiv.org/abs/2201.04127) | [github](https://github.com/chungyiweng/humannerf) |
+|  1   | HumanNeRF | ["HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video"](https://arxiv.org/abs/2201.04127) | [github](https://github.com/alvinliu0/HumanGaussian) |
+
+#### Gaussian
+
+|  #   |   Model   | Paper                                                        |                    Code/Project                    |
+| :--: | :-------: | :----------------------------------------------------------- | :------------------------------------------------: |
+|  1   | HumanGaussian | ["HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting"](https://arxiv.org/abs/2311.17061) | [github](https://github.com/chungyiweng/humannerf) |
 
 #### 3D Quality Assessment
 
