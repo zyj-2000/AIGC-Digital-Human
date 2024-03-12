@@ -54,7 +54,7 @@ In this documentation, we have collected papers, databases, and code resources r
 
 #### Face Driving
 |  #   |          Model          |                            Paper                             |                         Code/Project                         |
-| :--: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| :--: | :---------------------: | :---------------------------------------------------------- | :----------------------------------------------------------: |
 |  1   |       MakeIttalk       |                  ["MakeItTalk: Speaker-Aware Talking-Head Animation"](https://arxiv.org/abs/2004.12992)   |       [github](https://github.com/yzhou359/MakeItTalk)       |
 |  2   | Audio2Head | ["Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion"](https://arxiv.org/abs/2107.09293) | [github](https://github.com/wangsuzhen/Audio2Head) |
 |  3   |       Sadtalker       |  ["SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation"](https://arxiv.org/abs/2211.12194)                              |       [github](https://github.com/OpenTalker/SadTalker)       |
