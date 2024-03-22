@@ -47,7 +47,7 @@ In this documentation, we have collected papers, databases, and code resources r
 |  #   |          Model          |                            Paper                             |                         Code/Project                         |
 | :--: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  1   |       MockingBird       |                              -                               |       [github](https://github.com/babysor/MockingBird)       |
-|  2   | Real-Time-Voice-Cloning | ["Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis"](https://arxiv.org/abs/1806.04558) | [github](https://github.com/CorentinJ/Real-
+|  2   | Real-Time-Voice-Cloning | ["Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis"](https://arxiv.org/abs/1806.04558) | [github](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
 
 
